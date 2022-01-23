@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abir4123
+- 👋 Hi, I’m @Abir
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web devlopment
+- 🌱 I’m currently learning python and software development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me here: salehabrar464@gmail.com
 
 <!---
 Abir4123/Abir4123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
